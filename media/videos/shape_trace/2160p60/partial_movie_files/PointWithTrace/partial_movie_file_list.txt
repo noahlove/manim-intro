@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/manim/media/videos/shape_trace/2160p60/partial_movie_files/PointWithTrace/3215718966_1712371738_2877309395.mp4'
+file 'file:/manim/media/videos/shape_trace/2160p60/partial_movie_files/PointWithTrace/1370976784_3493041802_1276852495.mp4'
+file 'file:/manim/media/videos/shape_trace/2160p60/partial_movie_files/PointWithTrace/1370976784_2018672671_173093623.mp4'
+file 'file:/manim/media/videos/shape_trace/2160p60/partial_movie_files/PointWithTrace/1370976784_1117468284_2639589600.mp4'
+file 'file:/manim/media/videos/shape_trace/2160p60/partial_movie_files/PointWithTrace/1370976784_3493041802_2092444497.mp4'
